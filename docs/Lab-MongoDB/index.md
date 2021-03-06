@@ -1,6 +1,6 @@
 # MongoDB
 
-A labor során a MongoDB NoSQL adatbáziskezelő rendszer és a Mongo C# driver használatát gyakorjuk komplexebb feladatokon keresztül.
+A labor során a MongoDB NoSQL adatbáziskezelő rendszer és a Mongo C# driver használatát gyakoroljuk komplexebb feladatokon keresztül.
 
 ## Előfeltételek, felkészülés
 
